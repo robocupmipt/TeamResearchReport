@@ -1,2 +1,2 @@
 # TeamResearchReport
-Release paper of RoboCup 2019
+Release paper of Starkit team on RoboCup 2019
